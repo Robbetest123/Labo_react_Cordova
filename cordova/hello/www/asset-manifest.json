@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.31fd269d.chunk.css",
+    "main.js": "./static/js/main.3b77cf4e.chunk.js",
+    "main.js.map": "./static/js/main.3b77cf4e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.4d4e4069.js",
+    "runtime-main.js.map": "./static/js/runtime-main.4d4e4069.js.map",
+    "static/js/2.70a9ca8a.chunk.js": "./static/js/2.70a9ca8a.chunk.js",
+    "static/js/2.70a9ca8a.chunk.js.map": "./static/js/2.70a9ca8a.chunk.js.map",
+    "static/js/3.23e38e42.chunk.js": "./static/js/3.23e38e42.chunk.js",
+    "static/js/3.23e38e42.chunk.js.map": "./static/js/3.23e38e42.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.31fd269d.chunk.css.map": "./static/css/main.31fd269d.chunk.css.map",
+    "static/js/2.70a9ca8a.chunk.js.LICENSE.txt": "./static/js/2.70a9ca8a.chunk.js.LICENSE.txt",
+    "static/media/BE_logo.ba78aec6.png": "./static/media/BE_logo.ba78aec6.png",
+    "static/media/Logo_Anderlecht.34d0e7e5.jpg": "./static/media/Logo_Anderlecht.34d0e7e5.jpg",
+    "static/media/ROMLUK.b8cd73a9.jpg": "./static/media/ROMLUK.b8cd73a9.jpg",
+    "static/media/courtois.4eaf8fcc.jpg": "./static/media/courtois.4eaf8fcc.jpg",
+    "static/media/frankrijk.14d4f96d.png": "./static/media/frankrijk.14d4f96d.png",
+    "static/media/griezman.c7df2c38.jpg": "./static/media/griezman.c7df2c38.jpg",
+    "static/media/kdb.218345ac.jpg": "./static/media/kdb.218345ac.jpg",
+    "static/media/mbappe.2c547388.jpg": "./static/media/mbappe.2c547388.jpg",
+    "static/media/pogba.2eb98480.jpg": "./static/media/pogba.2eb98480.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d4e4069.js",
+    "static/js/2.70a9ca8a.chunk.js",
+    "static/css/main.31fd269d.chunk.css",
+    "static/js/main.3b77cf4e.chunk.js"
+  ]
+}
